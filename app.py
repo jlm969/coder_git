@@ -1,5 +1,3 @@
-print("Hello GIT")
-print("Hola Mundo!!!!")
 print("Chauuuuu")
 
 
